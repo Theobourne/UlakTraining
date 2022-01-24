@@ -5,11 +5,11 @@ gNB:gNB yani new generation NodeB dediğimiz şey 4g'deki eşdeğeri eNB olan ra
 gNB 3 ana fonksiyonel modülden oluşur: CU(Control Unit/ Kontrol Ünitesi), DU(Distributed Unit/ Dağıtma Ünitesi), RU(Radio Unit/ Radio Ünitesi).
 gNB-CU MC(Mobility Control/Mobilite Kontrol), RRM(Radio Resource Management/Radyo Kaynak Yönetimi) ve SM(Session Management/Oturum Yönetimi) özelliklerini yönetir ve kontrol eder. 
 Bunun yanında gNB-DU ise PHY(Fiziksel Erişim) ve MAC(Ortam erişim kontrol) tabaka fonksiyonitelerini sağlar. gNB-DU ve gNB-CU arasındaki fonksiyonelite ayrımı implementasyona bağlıdır.
-AMF: AMF Access and Mobility Management Function
+AMF: AMF (Access and Mobility Management Function/Erişim ve Hareketlilik Yönetim Fonksiyonu)
 SMF:
 UPF:
 UDM:
-PCF:
+PCF:    
 PCRF:Policy and Charging Rules Function
 Data Network:
 PDU Session:
