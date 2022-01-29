@@ -1,0 +1,2 @@
+Şebekelerin, işletim sistemlerinin ve servislerin kapsamlı bulut adaptasyonu 5g'nin başarılı olması için bir önkoşuldur.
+"All Cloud" denilen strateji aslında anladığım kadarıyla normalde fiziksel olan kaynaklarımızı ve araçlarımızı dijitalleştirerek 
