@@ -19,4 +19,5 @@ NF: NF(Network Function/Şebeke Fonksiyonu) Yukarıda bahsettiğimiz bütün fon
 Data Network: Herhangi bir çeşit internet veya bir data ağına referans etmek için şemalarda kullanılır.
 PDU Session: Bir veya birden çok QoS akışını destekleyen ve bir UE'den Data Networke erişimi UPF üzerinden yapılan bağlantılarda kullandığımız şeydir.
 NFV: NFV(Network Function Virtualization/Network Fonksiyonelite Sanallaştırılması) aslında anladığım kadarıyla 5g'nin en büyük özelliklerinden biri, normalde fiziksel olarak kurulması gereken tonla cihazı, mesela routerlar, dijital olarak çalışan yazılımlarla değiştirerek hem servis zamanlarını azaltacak hem de maliyetleri azaltacak ve bir nevi endüstri standardı getirecek sanırım. Telekom şirketlerinin artık gidip sürekli cihaz kurmasına vs gerek kalmayacak.
-
+AUSF: AUSF(Authentication Server Function/ Doğrulama Sunucu Fonksiyonu) bir doğrulama sunucusu olarak iş görür, (EPC dünyasından HSS'in parçası olduğu yazıyor.)
+AF:AF(Application Function/Aplikasyon Fonksiyonu) trafik rotalarında aplikasyon etkilerini kontrol etme, NEF'e erişim sağlama, poliçe frameworküyle poliçe kontrolu için etkileşim sağlar. (EPC dünyasındaki AF ile aynı işi görür.)
