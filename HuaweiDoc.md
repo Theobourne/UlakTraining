@@ -1,2 +1,3 @@
-Şebekelerin, işletim sistemlerinin ve servislerin kapsamlı bulut adaptasyonu 5g'nin başarılı olması için bir önkoşuldur.
-"All Cloud" denilen strateji aslında anladığım kadarıyla normalde fiziksel olan kaynaklarımızı ve araçlarımızı dijitalleştirerek 
+Şebekelerin, işletim sistemlerinin ve servislerin kapsamlı bulut adaptasyonu 5g'nin başarılı olması için bir önkoşuldur, çünkü diversified servis ihtiyaçlarını karşılamanın en iyi yollarından biri budur.
+"All Cloud" denilen strateji aslında anladığım kadarıyla normalde fiziksel olan kaynaklarımızı ve araçlarımızı dijitalleştirerek tamamen bulut bazlı(cloud-native) bir sisteme geçmek ve böylece deployment ve hardwaredan gelen maliyetleri indirmek ve bu süreçleri hızlandırmak amaçlı bir stratejidir.
+5G çağında bir şebeke altyapısı farklı hizmet ihtiyaçlarını karşılayabilmelidir. Bulut bazlı E2E şebeke mimarisi aşşağıdaki özelliklere sahiptir:
