@@ -11,10 +11,12 @@ SMF:SMF(Session Management Function/Seans Yönetim Fonksiyonu) ise MME'nin işle
 NAS Signalling:NAS(Non-Access Stratum/Erişilemeyen Tabaka(?, ismi tam anlayamadım)) UMTS ve LTE içindeki kablosuz telekom protokollerin tabakalarından biridir. NAS mesajalrına örnek olarak mesaj eklemek veya güncellemek, mesaj onaylanması, servis isteği vs.
 UPF:UPF(User Plane Function/ Kullanıcı Düzlemi Fonksiyonu), paket rotaları ve yönlendirmeden, paket incelemekten, QoS'i handle etmek, Data Network(internet vs)'e bağlanmak için dışsal bir PDU seans bağlantı noktası olmak, gibi görevleri vardır.
 UDM: AKA(Authentication and Key Agreement/Otantikasyon ve anahtar anlaşması) yeterliliklerinin üretimi, kullanıcı otantikasyon, erişim otorizasyonu ve abone yönetimi gibi konularda destek olur. 
-PCF: PCF doğal olarak 4g'deki pcrf'in özelliklerinin bazıalrını barındırır.
+PCF: PCF(Policy Control Function/Poliçe Kontrol Fonksiyonu) doğal olarak 4g'deki pcrf'in özelliklerinin bazılarını barındırır.
+PCF'in en önemli işlerinden bazıları:
+Birleşmiş Poliçe Frameworkünü desteklemek,CP fonksiyonlarına poliçe kurallarını aktarmak,UDR'daki poliçelerle lgili kararlar için abone bilgilerine erişim sağlama,
 PCRF:Policy and Charging Rules Function() PCF'in 4G'deki ve daha kapsamlı halidir, fakat anladığım kadarıyla 5G'de bazı fonksiyoniteleri ayrıldı ve geriye de PCF kaldı.
-NF: Nf(Network Function/Şebeke Fonksiyonu)
-Data Network:
-PDU Session:
+NF: NF(Network Function/Şebeke Fonksiyonu) Yukarıda bahsettiğimiz bütün fonksiyonları referans eden terimdir.
+Data Network: Herhangi bir çeşit internet veya bir data ağına referans etmek için şemalarda kullanılır.
+PDU Session: Bir veya birden çok QoS akışını destekleyen ve bir UE'den Data Networke erişimi UPF üzerinden yapılan bağlantılarda kullandığımız şeydir.
 NFV: NFV(Network Function Virtualization/Network Fonksiyonelite Sanallaştırılması) aslında anladığım kadarıyla 5g'nin en büyük özelliklerinden biri, normalde fiziksel olarak kurulması gereken tonla cihazı, mesela routerlar, dijital olarak çalışan yazılımlarla değiştirerek hem servis zamanlarını azaltacak hem de maliyetleri azaltacak ve bir nevi endüstri standardı getirecek sanırım. Telekom şirketlerinin artık gidip sürekli cihaz kurmasına vs gerek kalmayacak.
 
